@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:020617,35:0f172a,70:0ea5e9,100:7c3aed&amp;text=M%C3%BCnircan%20Soysal&amp;fontColor=ffffff&amp;fontSize=44&amp;fontAlignY=38&amp;desc=.NET%20%26%20Angular%20Software%20Developer%20%E2%80%A2%20Enterprise%20Software%20Systems&amp;descAlignY=60&amp;descSize=17&amp;animation=fadeIn" alt="Münircan Soysal header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&amp;height=280&amp;color=0:020617,35:0f172a,70:0ea5e9,100:7c3aed&amp;text=Munircan%20Soysal&amp;fontColor=ffffff&amp;fontSize=48&amp;fontAlignY=40&amp;desc=.NET%20%26%20Angular%20Software%20Developer%20%7C%20Enterprise%20Software%20Systems&amp;descAlignY=63&amp;descSize=17&amp;animation=fadeIn" alt="Munircan Soysal" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=22&amp;duration=2600&amp;pause=850&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Enterprise+APIs+%E2%80%A2+Angular+Architecture+%E2%80%A2+SQL+Server;REST+%2F+SOAP+Integrations+%E2%80%A2+Scheduler+Flows+%E2%80%A2+Observability;Clean+Architecture+%E2%80%A2+Traceable+Systems+%E2%80%A2+Production+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=800&amp;size=23&amp;duration=2400&amp;pause=700&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=950&amp;lines=Enterprise+APIs+%E2%80%A2+Angular+Architecture+%E2%80%A2+SQL+Server;REST+%2F+SOAP+Integrations+%E2%80%A2+Scheduler+Flows+%E2%80%A2+Observability;Clean+Architecture+%E2%80%A2+Traceable+Systems+%E2%80%A2+Production+Mindset;Building+maintainable%2C+scalable+and+debuggable+software" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,13 @@
   <a href="https://github.com/Oritann">
     <img src="https://img.shields.io/badge/GitHub-Oritann-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Kocaeli%2C%20T%C3%BCrkiye-1e293b?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Kocaeli-T%C3%BCrkiye-1e293b?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oritann&amp;style=for-the-badge&amp;color=0ea5e9&amp;label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20Software-7c3aed?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Mindset-Clean%20%7C%20Traceable%20%7C%20Scalable-0f766e?style=for-the-badge" alt="Mindset" />
 </p>
 
 <br />
@@ -29,17 +35,18 @@
 
 I am **Münircan Soysal**, a **.NET & Angular Software Developer** focused on building **enterprise-grade web applications**, **API integrations**, **SQL-driven workflows**, and **scalable frontend architectures**.
 
-I work with systems where backend, frontend, data flow, integrations and operational reliability need to move together.
+I work with systems where backend, frontend, data flow, integrations and operational reliability need to move together. My goal is not only to build software that works; I aim to build systems that remain understandable and maintainable after they reach production.
 
-My goal is not only to build software that works. I aim to build software that is:
+**What I value while developing:**
 
-- understandable
-- maintainable
-- observable
-- scalable
-- production-ready
-- easy to debug
-- safe to extend
+- clean and readable implementation
+- maintainable architecture
+- observable service flows
+- scalable frontend structure
+- production-oriented thinking
+- safe refactoring
+- traceable errors
+- clear ownership of the problem
 
 > I design software with a focus on clarity, reliability and long-term maintainability.
 
@@ -62,9 +69,19 @@ public string BuildStyle =>
     "Clean architecture, clear flow, reliable delivery";
 ```
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oritann&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;hide_title=true" alt="GitHub stats mini" />
+</p>
+
 </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oritann&amp;theme=tokyonight" alt="Profile summary" />
+</p>
 
 ---
 
@@ -74,19 +91,19 @@ public string BuildStyle =>
   <tr>
     <td width="25%" valign="top">
       <h3>🏢 Enterprise Apps</h3>
-      <p>Internal tools, admin panels, business workflows and production-oriented management screens.</p>
+      <p>Internal tools, admin panels, role-based screens, business workflows and production-oriented management surfaces.</p>
     </td>
     <td width="25%" valign="top">
       <h3>🔗 Integrations</h3>
-      <p>REST/SOAP services, external system communication, data mapping and traceable request flows.</p>
+      <p>REST/SOAP services, external system communication, data mapping, response processing and traceable request flows.</p>
     </td>
     <td width="25%" valign="top">
       <h3>🗃️ SQL &amp; Data</h3>
-      <p>SQL Server, stored procedures, query optimization, reporting flows and data synchronization.</p>
+      <p>SQL Server, stored procedures, query optimization, reporting support and data synchronization workflows.</p>
     </td>
     <td width="25%" valign="top">
       <h3>🔍 Observability</h3>
-      <p>Logs, traces, metrics, OpenTelemetry, Jaeger and production behavior visibility.</p>
+      <p>Logs, traces, metrics, OpenTelemetry, Jaeger and production behavior visibility for real debugging.</p>
     </td>
   </tr>
 </table>
@@ -101,6 +118,7 @@ public string BuildStyle =>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Stored%20Procedures-1e293b?style=for-the-badge" alt="Stored Procedures" />
   <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge" alt="REST API" />
   <img src="https://img.shields.io/badge/SOAP-1e293b?style=for-the-badge" alt="SOAP" />
   <img src="https://img.shields.io/badge/OpenTelemetry-111827?style=for-the-badge" alt="OpenTelemetry" />
@@ -359,13 +377,23 @@ I continuously improve myself in:
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Oritann&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oritann&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Oritann&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oritann&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Oritann&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oritann&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="GitHub activity graph" />
 </p>
 
 ---
