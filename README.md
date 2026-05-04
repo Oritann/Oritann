@@ -1,46 +1,191 @@
-# Münircan Soysal
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=38BDF8&width=850&lines=.NET+%26+Angular+Software+Developer;Enterprise+APIs+%7C+Integrations+%7C+SQL+Server;Clean+Architecture+%7C+Observability+%7C+Scalable+Systems" alt="Typing SVG" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0f172a,70:0ea5e9,100:7c3aed&text=M%C3%BCnircan%20Soysal&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=.NET%20%26%20Angular%20Software%20Developer%20%E2%80%A2%20Enterprise%20Software%20Systems&descAlignY=60&descSize=17&animation=fadeIn" alt="Münircan Soysal header" />
 </p>
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Enterprise+APIs+%E2%80%A2+Angular+Architecture+%E2%80%A2+SQL+Server;REST+%2F+SOAP+Integrations+%E2%80%A2+Scheduler+Flows+%E2%80%A2+Observability;Clean+Architecture+%E2%80%A2+Traceable+Systems+%E2%80%A2+Production+Mindset" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://munircan.dev/">
     <img src="https://img.shields.io/badge/Portfolio-munircan.dev-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/m%C3%BCnir-soysal">
-    <img src="https://img.shields.io/badge/LinkedIn-Münircan%20Soysal-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-M%C3%BCnircan%20Soysal-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Oritann">
     <img src="https://img.shields.io/badge/GitHub-Oritann-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Location-Kocaeli%2C%20T%C3%BCrkiye-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
----
+<br/>
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
 ## 👋 About Me
 
-I am **Münircan Soysal**, a **.NET & Angular Software Developer** focused on building enterprise-grade web applications, API integrations, data workflows and scalable frontend systems.
+I am **Münircan Soysal**, a **.NET & Angular Software Developer** focused on building **enterprise-grade web applications**, **API integrations**, **SQL-driven workflows**, and **scalable frontend architectures**.
 
-I work mainly with **.NET**, **Angular**, **SQL Server**, **REST/SOAP integrations**, background jobs, scheduler flows and observability-oriented development.  
-My goal is not only to build working software, but to build systems that are:
+I work with systems where backend, frontend, data flow, integrations and operational reliability need to move together.
 
-- readable
+My goal is not only to build software that works.  
+I aim to build software that is:
+
+- understandable
 - maintainable
-- traceable
+- observable
 - scalable
 - production-ready
 - easy to debug
 - safe to extend
 
-I care deeply about clean architecture, system ownership, performance, and turning complex business flows into clear technical structures.
+> I design software with a focus on clarity, reliability and long-term maintainability.
+
+</td>
+<td width="42%" valign="top">
+
+## 🧭 Snapshot
+
+```txt
+Name       Münircan Soysal
+Role       .NET & Angular Developer
+Focus      Enterprise Software
+Stack      .NET • Angular • SQL Server
+Mindset    Clean • Traceable • Scalable
+Location   Kocaeli, Türkiye
+```
+
+```csharp
+public string BuildStyle =>
+    "Clean architecture, clear flow, reliable delivery";
+```
+
+</td>
+  </tr>
+</table>
 
 ---
 
-## 🧭 Engineering Identity
+## 🧩 Engineering Surface
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>🏢 Enterprise Apps</h3>
+      <p>Internal tools, admin panels, business workflows and production-oriented management screens.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🔗 Integrations</h3>
+      <p>REST/SOAP services, external system communication, data mapping and traceable request flows.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🗃️ SQL & Data</h3>
+      <p>SQL Server, stored procedures, query optimization, reporting flows and data synchronization.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🔍 Observability</h3>
+      <p>Logs, traces, metrics, OpenTelemetry, Jaeger and production behavior visibility.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ Core Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,sass,docker,git,github,azure,visualstudio,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOAP-1e293b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jaeger-1d4ed8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IIS-1e40af?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Observability-7c3aed?style=for-the-badge" />
+</p>
+
+---
+
+## 🏗️ Architecture Mindset
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Backend Thinking
+
+```txt
+Controller
+   ↓
+Application Service
+   ↓
+Business Rule
+   ↓
+Repository / Integration
+   ↓
+Database / External API
+```
+
+I prefer backend code where responsibilities are clear and business logic does not disappear inside controllers.
+
+**I focus on:**
+
+- layered architecture
+- service boundaries
+- DTO / ViewModel separation
+- readable business rules
+- integration safety
+- traceable errors
+- maintainable code
+
+</td>
+<td width="50%" valign="top">
+
+### Frontend Thinking
+
+```txt
+Feature
+   ↓
+Page
+   ↓
+Facade
+   ↓
+Data Access
+   ↓
+Component
+   ↓
+UI State
+```
+
+I prefer Angular structures where components focus on UI and orchestration is handled through clear boundaries.
+
+**I focus on:**
+
+- feature-based architecture
+- Facade Pattern
+- signal-based state
+- route-based lazy loading
+- shared components
+- SSR and SEO-aware structure
+- scalable UI systems
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Developer Identity
 
 ```csharp
-public sealed class DeveloperIdentity
+public sealed class DeveloperProfile
 {
     public string Name => "Münircan Soysal";
     public string Role => ".NET & Angular Software Developer";
@@ -54,253 +199,106 @@ public sealed class DeveloperIdentity
         "SQL Server",
         "REST API",
         "SOAP",
-        "OpenTelemetry"
+        "OpenTelemetry",
+        "Docker"
     ];
 
-    public string[] EngineeringFocus =>
+    public string[] FocusAreas =>
     [
         "Enterprise APIs",
-        "Frontend Architecture",
+        "Angular UI Systems",
+        "SQL Server Workflows",
         "System Integrations",
-        "Data Synchronization",
-        "Job Scheduler Flows",
+        "Scheduler Jobs",
         "Observability",
         "Clean Architecture",
         "Performance Optimization"
     ];
+
+    public bool WritesReadableCode => true;
+    public bool CaresAboutMaintainability => true;
+    public bool ThinksInSystems => true;
 }
 ```
 
 ---
 
-## 🧩 What I Build
+## 🔥 What I Care About
 
-I usually work on systems where backend, frontend and data flow are connected together.
-
-### Enterprise Web Applications
-
-- Internal business tools
-- Management panels
-- Admin dashboards
-- Role-based screens
-- Dynamic frontend components
-- Responsive and maintainable UI structures
-
-### API & Integration Systems
-
-- REST API integrations
-- SOAP service integrations
-- External system communication
-- Data mapping and transformation
-- Request/response handling
-- Error management and operational traceability
-
-### Data & SQL Workflows
-
-- SQL Server queries
-- Stored procedures
-- Query optimization
-- Data validation
-- Data synchronization
-- Reporting-oriented data flows
-
-### Job & Scheduler Structures
-
-- Background workers
-- Scheduled jobs
-- Automated data sync
-- Operational batch processes
-- Error logging and retry-oriented flows
-
-### Observability & Diagnostics
-
-- OpenTelemetry
-- Jaeger
-- Logs, traces and metrics
-- Exception tracking
-- Production behavior visibility
-- Debuggable service flows
-
----
-
-## 🏗️ Architecture Mindset
-
-I like building software around clear boundaries.
-
-### Backend Architecture
-
-- Clean Architecture
-- Layered Architecture
-- Service Layer
-- Repository pattern
-- DTO / ViewModel separation
-- Dependency Injection
-- Business logic isolation
-- Testable and maintainable code
-
-### Frontend Architecture
-
-- Feature-based Angular structure
-- Facade Pattern
-- Signal-based state management
-- Domain-driven frontend modeling
-- Shared UI components
-- Core / Shared / Feature separation
-- Route-based lazy loading
-- SSR and SEO-aware structure
-
-### System Thinking
-
-I approach software as a system, not just screens and endpoints.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Clean Flow</h3>
+      <p>Code should explain the business flow instead of hiding it behind complexity.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Production Reality</h3>
+      <p>A system should be traceable, debuggable and reliable after deployment.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Long-Term Value</h3>
+      <p>Good architecture allows the next developer to continue safely.</p>
+    </td>
+  </tr>
+</table>
 
 ```txt
-Business Need
-   ↓
-Use Case
-   ↓
-API / Service Flow
-   ↓
-Data Model
-   ↓
-UI State
-   ↓
-User Experience
-   ↓
-Observability
+Problem → Flow → Data → Cause → Fix → Verification
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Selected Work Types
 
-### Backend
+I mostly work around enterprise production scenarios.
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-5B21B6?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOAP-1E293B?style=for-the-badge" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
-</p>
-
-### Database & Data
-
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stored_Procedures-1E293B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Mapping-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Query_Optimization-334155?style=for-the-badge" />
-</p>
-
-### DevOps & Observability
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jaeger-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IIS-1E40AF?style=for-the-badge" />
-</p>
-
----
-
-## 🔍 Main Focus Areas
-
-| Area | What I Care About |
+| Area | Example Focus |
 |---|---|
-| **.NET API Development** | Clean service flows, readable business logic, reliable endpoints |
-| **Angular Architecture** | Feature-based structure, reusable components, scalable UI |
-| **SQL Server** | Performance, stored procedures, data integrity, query readability |
-| **Integrations** | REST/SOAP flows, request safety, response mapping, traceability |
-| **Job Systems** | Scheduled tasks, background processing, operational reliability |
-| **Observability** | Logs, traces, metrics, exception visibility |
-| **Refactoring** | Reducing complexity, improving maintainability |
-| **Legacy Systems** | Understanding existing code and improving it without breaking production |
+| **Admin Panels** | Management screens, role-based flows, reusable UI |
+| **API Refactor** | Service layer, business rule separation, cleaner endpoints |
+| **Integrations** | REST/SOAP, data mapping, external service flows |
+| **SQL Workflows** | Stored procedures, query optimization, reporting support |
+| **Job Systems** | Scheduler, background workers, recurring operational tasks |
+| **Observability** | Trace, metric, log and exception visibility |
+| **Frontend Architecture** | Angular features, facades, shared components |
+| **Legacy Improvement** | Understanding existing flows and reducing complexity |
 
 ---
 
-## 🧠 How I Think While Developing
+## 🌐 Portfolio System
 
-I like asking questions before writing code:
+My portfolio is designed as an **engineering interface**, not just a static personal page.
 
-- What is the real business problem?
-- Which data comes from where?
-- Which system owns the truth?
-- What happens if this request fails?
-- Can we trace this operation later?
-- Is this code readable after 6 months?
-- Can another developer safely continue this?
-- Is the UI only showing data, or guiding the user?
-
----
-
-## 🧱 Frontend Engineering Approach
-
-Angular projects can easily become hard to maintain if everything stays inside components.  
-That is why I prefer separating responsibilities clearly.
+<p align="center">
+  <a href="https://munircan.dev/">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-munircan.dev-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ```txt
-feature/
-  pages/
-  components/
-  data-access/
-  facade/
-  models/
+munircan.dev
+   ├── Portfolio Page
+   ├── Blog Module
+   ├── Project Cards
+   ├── Skills Surface
+   ├── Experience Timeline
+   ├── Contact Section
+   └── Interactive Developer Card
 ```
 
-### Why Facade Pattern?
+### Technical Highlights
 
-The component should not know every detail of the business flow.
-
-```ts
-@Component({...})
-export class ProjectsPageComponent {
-  readonly projects = this.projectsFacade.projects;
-  readonly isLoading = this.projectsFacade.isLoading;
-
-  constructor(private readonly projectsFacade: ProjectsFacade) {}
-}
-```
-
-The component focuses on UI.  
-The facade manages data, state and orchestration.
-
----
-
-## 🧠 Backend Engineering Approach
-
-I prefer backend code that explains itself.
-
-```txt
-Controller
-   ↓
-Application Service
-   ↓
-Domain / Business Rule
-   ↓
-Repository / External Service
-   ↓
-Database / API / Integration
-```
-
-### What I try to avoid
-
-- Business logic directly inside controllers
-- Unclear service responsibilities
-- Huge methods with mixed concerns
-- Silent failures
-- Untraceable integrations
-- SQL queries without clear purpose
-- Frontend components carrying backend logic
+- Angular SSR
+- prerendered SEO pages
+- feature-based structure
+- portfolio module
+- blog module
+- route-aware navigation
+- JSON-LD schema
+- sitemap and robots setup
+- Netlify deployment
+- responsive media strategy
+- SEO-focused H1 and metadata
 
 ---
 
@@ -308,7 +306,7 @@ Database / API / Integration
 
 A system is not production-ready only because it works.
 
-It should also be observable.
+It should also be visible.
 
 ```txt
 Request received
@@ -324,134 +322,89 @@ Business result produced
 Response returned
 ```
 
-With trace, metric and log visibility, debugging becomes a system capability instead of a panic moment.
+With proper tracing, logging and metrics, debugging becomes a system capability.
 
 ---
 
-## 🧪 Debugging & Problem Solving
+## 🧪 Problem Solving Style
 
-I like working through problems step by step:
-
-- reproduce the issue
-- understand the flow
-- isolate the failing layer
-- check data source
-- inspect logs
-- validate assumptions
-- fix root cause
-- test the full scenario
-- document the result
+I prefer solving problems from the root.
 
 ```txt
-Problem → Flow → Data → Cause → Fix → Verification
+1. Reproduce the issue
+2. Understand the flow
+3. Identify the failing layer
+4. Validate the data source
+5. Inspect logs and traces
+6. Fix the root cause
+7. Test the full scenario
+8. Document the result
 ```
 
 ---
 
-## 🚀 Selected Work Types
-
-I do not only focus on one type of project.  
-My experience is mostly around enterprise production scenarios.
-
-### Examples of work I focus on
-
-- Admin panel development
-- API refactoring
-- Angular UI modernization
-- REST/SOAP integration
-- SQL performance improvement
-- Scheduler/job flow analysis
-- Logging and error tracking
-- Data mapping and synchronization
-- Legacy system improvement
-- SSR portfolio and SEO optimization
-
----
-
-## 🌐 Portfolio Project
-
-My portfolio is not just a static page.  
-It is a modern Angular SSR project with:
-
-- Angular SSR
-- prerendered SEO pages
-- feature-based architecture
-- route-based structure
-- blog module
-- portfolio module
-- interactive developer card
-- responsive video handling
-- SEO metadata
-- JSON-LD schema
-- sitemap and robots configuration
-- Netlify deployment
-
-```txt
-munircan.dev
-   ├── Portfolio
-   ├── Blog
-   ├── Projects
-   ├── Skills
-   ├── Experience
-   └── Contact
-```
-
-🔗 [Visit Portfolio](https://munircan.dev/)
-
----
-
-## 📌 Current Learning Direction
+## 📚 Current Growth Direction
 
 I continuously improve myself in:
 
 - advanced .NET architecture
-- Angular performance and SSR
-- OpenTelemetry and observability
-- distributed system thinking
-- SQL optimization
-- clean code practices
+- Angular SSR and frontend performance
+- OpenTelemetry and distributed tracing
 - enterprise integration patterns
+- SQL Server optimization
+- clean code and refactoring
+- system design thinking
 - AI-assisted development workflows
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Oritann&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Oritann&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oritann&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Oritann&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧾 Personal Engineering Principles
+## 🧾 Engineering Principles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build-Clear-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Think-Deeply-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trace-Everything-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reduce-Complexity-0f766e?style=for-the-badge" />
+</p>
 
 ```txt
-Build clear.
+Write clean.
 Think deeply.
 Trace everything.
 Avoid hidden complexity.
-Write code another developer can continue.
-Make systems understandable.
+Own the problem.
+Fix the root cause.
+Build for maintainability.
 ```
 
 ---
 
-## 🤝 Contact
+## 🤝 Connect
 
-<p>
+<p align="center">
   <a href="https://munircan.dev/">
     <img src="https://img.shields.io/badge/Portfolio-munircan.dev-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/m%C3%BCnir-soysal">
-    <img src="https://img.shields.io/badge/LinkedIn-Münircan%20Soysal-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-M%C3%BCnircan%20Soysal-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
+<br/>
 
-> I design software with a focus on clarity, reliability, scalability and long-term maintainability.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:020617,40:0ea5e9,100:7c3aed" alt="footer" />
+</p>
