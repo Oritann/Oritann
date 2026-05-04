@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0f172a,70:0ea5e9,100:7c3aed&text=M%C3%BCnircan%20Soysal&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=.NET%20%26%20Angular%20Software%20Developer%20%E2%80%A2%20Enterprise%20Software%20Systems&descAlignY=60&descSize=17&animation=fadeIn" alt="Münircan Soysal header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:020617,35:0f172a,70:0ea5e9,100:7c3aed&amp;text=M%C3%BCnircan%20Soysal&amp;fontColor=ffffff&amp;fontSize=44&amp;fontAlignY=38&amp;desc=.NET%20%26%20Angular%20Software%20Developer%20%E2%80%A2%20Enterprise%20Software%20Systems&amp;descAlignY=60&amp;descSize=17&amp;animation=fadeIn" alt="Münircan Soysal header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Enterprise+APIs+%E2%80%A2+Angular+Architecture+%E2%80%A2+SQL+Server;REST+%2F+SOAP+Integrations+%E2%80%A2+Scheduler+Flows+%E2%80%A2+Observability;Clean+Architecture+%E2%80%A2+Traceable+Systems+%E2%80%A2+Production+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=22&amp;duration=2600&amp;pause=850&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Enterprise+APIs+%E2%80%A2+Angular+Architecture+%E2%80%A2+SQL+Server;REST+%2F+SOAP+Integrations+%E2%80%A2+Scheduler+Flows+%E2%80%A2+Observability;Clean+Architecture+%E2%80%A2+Traceable+Systems+%E2%80%A2+Production+Mindset" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://munircan.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-munircan.dev-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-munircan.dev-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/m%C3%BCnir-soysal">
-    <img src="https://img.shields.io/badge/LinkedIn-M%C3%BCnircan%20Soysal-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-M%C3%BCnircan%20Soysal-2563eb?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Oritann">
-    <img src="https://img.shields.io/badge/GitHub-Oritann-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Oritann-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Kocaeli%2C%20T%C3%BCrkiye-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Kocaeli%2C%20T%C3%BCrkiye-1e293b?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location" />
 </p>
 
-<br/>
+<br />
 
 <table>
   <tr>
@@ -31,8 +31,7 @@ I am **Münircan Soysal**, a **.NET & Angular Software Developer** focused on bu
 
 I work with systems where backend, frontend, data flow, integrations and operational reliability need to move together.
 
-My goal is not only to build software that works.  
-I aim to build software that is:
+My goal is not only to build software that works. I aim to build software that is:
 
 - understandable
 - maintainable
@@ -82,7 +81,7 @@ public string BuildStyle =>
       <p>REST/SOAP services, external system communication, data mapping and traceable request flows.</p>
     </td>
     <td width="25%" valign="top">
-      <h3>🗃️ SQL & Data</h3>
+      <h3>🗃️ SQL &amp; Data</h3>
       <p>SQL Server, stored procedures, query optimization, reporting flows and data synchronization.</p>
     </td>
     <td width="25%" valign="top">
@@ -97,18 +96,18 @@ public string BuildStyle =>
 ## ⚙️ Core Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,sass,docker,git,github,azure,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,sass,docker,git,github,azure,visualstudio,vscode" alt="Tech stack icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOAP-1e293b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jaeger-1d4ed8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IIS-1e40af?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Observability-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/SOAP-1e293b?style=for-the-badge" alt="SOAP" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-111827?style=for-the-badge" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Jaeger-1d4ed8?style=for-the-badge" alt="Jaeger" />
+  <img src="https://img.shields.io/badge/IIS-1e40af?style=for-the-badge" alt="IIS" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0f766e?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Observability-7c3aed?style=for-the-badge" alt="Observability" />
 </p>
 
 ---
@@ -271,7 +270,7 @@ My portfolio is designed as an **engineering interface**, not just a static pers
 
 <p align="center">
   <a href="https://munircan.dev/">
-    <img src="https://img.shields.io/badge/Live%20Portfolio-munircan.dev-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Portfolio-munircan.dev-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Live Portfolio" />
   </a>
 </p>
 
@@ -361,12 +360,12 @@ I continuously improve myself in:
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Oritann&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oritann&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Oritann&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oritann&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Oritann&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Oritann&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -374,10 +373,10 @@ I continuously improve myself in:
 ## 🧾 Engineering Principles
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Build-Clear-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Think-Deeply-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Trace-Everything-2563eb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Reduce-Complexity-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build-Clear-0ea5e9?style=for-the-badge" alt="Build Clear" />
+  <img src="https://img.shields.io/badge/Think-Deeply-7c3aed?style=for-the-badge" alt="Think Deeply" />
+  <img src="https://img.shields.io/badge/Trace-Everything-2563eb?style=for-the-badge" alt="Trace Everything" />
+  <img src="https://img.shields.io/badge/Reduce-Complexity-0f766e?style=for-the-badge" alt="Reduce Complexity" />
 </p>
 
 ```txt
@@ -396,15 +395,15 @@ Build for maintainability.
 
 <p align="center">
   <a href="https://munircan.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-munircan.dev-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-munircan.dev-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/m%C3%BCnir-soysal">
-    <img src="https://img.shields.io/badge/LinkedIn-M%C3%BCnircan%20Soysal-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-M%C3%BCnircan%20Soysal-2563eb?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<br/>
+<br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:020617,40:0ea5e9,100:7c3aed" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=130&amp;color=0:020617,40:0ea5e9,100:7c3aed" alt="footer" />
 </p>
